@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package actividaded.adriysantied;
 
 /**
@@ -11,6 +7,6 @@ package actividaded.adriysantied;
 public class AdriySantiED {
 
     public static void main(String[] args) {
-        System.out.println("Esto esta aprobado");
+        System.out.println("Esto esta aprobado jklasdf");
     }
 }

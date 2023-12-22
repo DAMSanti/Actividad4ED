@@ -11,6 +11,6 @@ package actividaded.adriysantied;
 public class AdriySantiED {
 
     public static void main(String[] args) {
-        System.out.println("Hola santi,esto no esta tan aprobado como parecia");
+        System.out.println("no entiendo una mierda jajajaja");
     }
 }
